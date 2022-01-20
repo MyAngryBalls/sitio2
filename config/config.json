@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xee0DE5Cf6ec731Cd9284Db331cFb732f5C26315B",
+  "SCAN_LINK": "https://polygonscan.com/address/0xee0DE5Cf6ec731Cd9284Db331cFb732f5C26315B",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Metaverse Lands MultiPlay2earn",
+  "SYMBOL": "MP2E",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0.0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/metaverse-lands-multiplay2earn",
+  "SHOW_BACKGROUND": false
+}
