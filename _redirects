@@ -8,4 +8,5 @@
 #/ecommerce    /store-closed  404
 
 # Rewrite a path
-multiplay2earn.com/ www.multiplay2earn.com/   200
+http://multiplay2earn.com/ https://www.multiplay2earn.com/   200
+https://multiplay2earn.com/ https://www.multiplay2earn.com/   200
